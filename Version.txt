@@ -10,9 +10,5 @@
   "exe": {
     "version": "1.54.0",
     "download_url": "https://www.nexusmods.com/palworld/mods/1898?tab=files"
-  },
-  "exe2": {
-    "version": "1.54.0",
-    "download_url": "https://www.nexusmods.com/palworld/mods/1898?tab=files"
   }
 }
