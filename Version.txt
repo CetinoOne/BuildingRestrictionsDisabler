@@ -1,14 +1,14 @@
 {
   "ct": {
     "version": "1.54.0",
-    "download_url": "https://www.nexusmods.com/palworld/mods/1898?tab=files&file_id=12905"
+    "download_url": "https://www.nexusmods.com/palworld/mods/1898?tab=files"
   },
   "dll": {
     "version": "1.54.0",
-    "download_url": "https://www.nexusmods.com/palworld/mods/1898?tab=files&file_id=12906"
+    "download_url": "https://www.nexusmods.com/palworld/mods/1898?tab=files"
   },
   "exe": {
     "version": "1.54.0",
-    "download_url": "https://www.nexusmods.com/palworld/mods/1898?tab=files&file_id=12907"
+    "download_url": "https://www.nexusmods.com/palworld/mods/1898?tab=files"
   }
 }
