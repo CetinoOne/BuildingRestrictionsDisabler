@@ -1,10 +1,10 @@
 {
   "ct": {
-    "version": "1.56.0",
+    "version": "1.56.1",
     "download_url": "https://www.nexusmods.com/palworld/mods/1898?tab=files"
   },
   "dll": {
-    "version": "1.56.0",
+    "version": "1.56.2",
     "download_url": "https://www.nexusmods.com/palworld/mods/1898?tab=files"
   },
   "exe": {
